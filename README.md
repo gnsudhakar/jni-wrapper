@@ -92,3 +92,4 @@ In HelloJNI.java , the function *sayHello()* will be resolved to **package_class
 ```
 java -Djava.library.path=. HelloJNI   
 ```
+![Screenshot 2022-03-09 at 4 58 16 PM](https://user-images.githubusercontent.com/56869062/157433250-4e1f2b48-5732-4a8b-b168-5e43c0942aa6.png)
